@@ -1,0 +1,6 @@
+#+OPTIONS: num:nil toc:nil date:nil
+#+LATEX_HEADER: \usepackage[cm]{fullpage}
+# #+PROPERTY: header-args: :noweb yes :exports results
+
+* main
+Pedagogic babel version of the notation system.
